@@ -23,7 +23,7 @@
 ./test_scripts/RC/SEAT/OnInteriorVehicleData/005_Existence_of_OnIVD_for_module_Seat_in_case_exists_active_subscription_for_module_Climate_and_after_unsubscribe_from_module_Climate.lua
 ./test_scripts/RC/SEAT/OnInteriorVehicleData/006_RPC_parameters_values.lua
 ./test_scripts/RC/SEAT/SetInteriorVehicleData/001_Success_flow.lua
-./test_scripts/RC/SEAT/SetInteriorVehicleData/002_Disallow_flow_by_policy_RADIO.lua
+./test_scripts/RC/SEAT/SetInteriorVehicleData/002_Disallow_flow_by_policy_SEAT.lua
 ./test_scripts/RC/SEAT/SetInteriorVehicleData/003_Disallow_flow_in_case_appHMIType_is_not_REMOTE_CONTROL.lua
 ./test_scripts/RC/SEAT/SetInteriorVehicleData/004_RPC_parameters_values.lua
 ./test_scripts/RC/SEAT/SetInteriorVehicleData/005_Disallow_flow_in_case_moduleType_is_absent_in_LPT.lua
